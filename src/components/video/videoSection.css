@@ -1,0 +1,35 @@
+@media (min-width: 2150px) {
+  .sec{
+    margin-left: 280px;
+    margin-right: 280px;
+  }
+}
+@media (max-width: 2150px) {
+  .sec{
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+}
+@media (max-width: 1600px) {
+  .sec {
+    margin-left: 45px;
+    margin-right: 45px;
+  }
+}
+@media (min-width: 1081px) {
+  .pin {
+    left: -35px;
+  }
+}
+@media (max-width: 1080px) {
+  .sec {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .pin {
+    right: -35px;
+  }
+}
+
+
+
